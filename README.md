@@ -23,8 +23,9 @@ The website will then be available at http://127.0.0.1:8000/
 
 - [Django](https://www.djangoproject.com/) - The web framework used
 - [OpenAI GPT-3](https://openai.com/gpt-3/) - The AI model used
+- [Python]
 
 ## Author
 
-- **Eyad ElShabrawy** - [eyadelshabrawy](https://github.com/eyadelshabrawy)
+- **Chris Bello** - 
 
